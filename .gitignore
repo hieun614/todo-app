@@ -1,0 +1,5 @@
+# Ignore file
+bye.class
+
+Ignore files with .class extension
+*.class
